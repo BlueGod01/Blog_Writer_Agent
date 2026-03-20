@@ -87,3 +87,5 @@ The `notebooks/` directory contains experiments and prototypes showcasing how th
 - `4_bwa_research_fine_tuned.ipynb`: Advanced constraints and grounded generation.
 - `5_bwa_image.ipynb`: Subgraph experiments for image planning and generation.
 - `tavily_test.ipynb`: Standalone testing of the Tavily extraction pipeline.
+
+A huge shoutout to Nitish Singh of CampusX for this notebook references
